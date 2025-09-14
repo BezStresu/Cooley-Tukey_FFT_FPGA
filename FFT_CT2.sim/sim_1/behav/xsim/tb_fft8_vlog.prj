@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FFT_CT2.srcs/sources_1/new/bitrev.v" \
+"../../../../FFT_CT2.srcs/sources_1/new/butterfly.v" \
+"../../../../FFT_CT2.srcs/sources_1/new/cplx_mul.v" \
+"../../../../FFT_CT2.srcs/sources_1/new/fft8_top.v" \
+"../../../../FFT_CT2.srcs/sources_1/new/twiddle_rom.v" \
+"../../../../FFT_CT2.srcs/sim_1/new/tb_fft8.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

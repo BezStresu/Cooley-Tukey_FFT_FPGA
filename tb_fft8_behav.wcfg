@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_fft8_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_fft8" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1000004992125fs"></ZoomStartTime>
+      <ZoomEndTime time="1000005001576fs"></ZoomEndTime>
+      <Cursor1Time time="1000005000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="138"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/tb_fft8/in_re0" type="array">
+      <obj_property name="ElementShortName">in_re0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re1" type="array">
+      <obj_property name="ElementShortName">in_re1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re2" type="array">
+      <obj_property name="ElementShortName">in_re2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re3" type="array">
+      <obj_property name="ElementShortName">in_re3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re4" type="array">
+      <obj_property name="ElementShortName">in_re4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re5" type="array">
+      <obj_property name="ElementShortName">in_re5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re6" type="array">
+      <obj_property name="ElementShortName">in_re6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re6[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_re7" type="array">
+      <obj_property name="ElementShortName">in_re7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_re7[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im0" type="array">
+      <obj_property name="ElementShortName">in_im0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im1" type="array">
+      <obj_property name="ElementShortName">in_im1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im2" type="array">
+      <obj_property name="ElementShortName">in_im2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im3" type="array">
+      <obj_property name="ElementShortName">in_im3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im4" type="array">
+      <obj_property name="ElementShortName">in_im4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im5" type="array">
+      <obj_property name="ElementShortName">in_im5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im6" type="array">
+      <obj_property name="ElementShortName">in_im6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im6[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/in_im7" type="array">
+      <obj_property name="ElementShortName">in_im7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in_im7[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re0" type="array">
+      <obj_property name="ElementShortName">out_re0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re1" type="array">
+      <obj_property name="ElementShortName">out_re1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re2" type="array">
+      <obj_property name="ElementShortName">out_re2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re3" type="array">
+      <obj_property name="ElementShortName">out_re3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re4" type="array">
+      <obj_property name="ElementShortName">out_re4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re5" type="array">
+      <obj_property name="ElementShortName">out_re5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re6" type="array">
+      <obj_property name="ElementShortName">out_re6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_re7" type="array">
+      <obj_property name="ElementShortName">out_re7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_re7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im0" type="array">
+      <obj_property name="ElementShortName">out_im0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im1" type="array">
+      <obj_property name="ElementShortName">out_im1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im2" type="array">
+      <obj_property name="ElementShortName">out_im2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im3" type="array">
+      <obj_property name="ElementShortName">out_im3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im4" type="array">
+      <obj_property name="ElementShortName">out_im4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im5" type="array">
+      <obj_property name="ElementShortName">out_im5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im6" type="array">
+      <obj_property name="ElementShortName">out_im6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/out_im7" type="array">
+      <obj_property name="ElementShortName">out_im7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_im7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/INW" type="array">
+      <obj_property name="ElementShortName">INW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">INW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_fft8/IW" type="array">
+      <obj_property name="ElementShortName">IW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IW[31:0]</obj_property>
+   </wvobject>
+</wave_config>

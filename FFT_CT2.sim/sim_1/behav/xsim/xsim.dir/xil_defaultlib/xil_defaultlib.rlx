@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sim_1/new/tb_fft8.v,1757353180,verilog,,,,tb_fft8,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/bitrev.v,1757353133,verilog,,C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/butterfly.v,,bitrev,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/butterfly.v,1757353124,verilog,,C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/cplx_mul.v,,butterfly,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/cplx_mul.v,1757353117,verilog,,C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/fft8_top.v,,cplx_mul,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/fft8_top.v,1757353146,verilog,,C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/twiddle_rom.v,,fft8_top,,,,,,,,
+C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sources_1/new/twiddle_rom.v,1757353111,verilog,,C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sim_1/new/tb_fft8.v,,twiddle_rom,,,,,,,,

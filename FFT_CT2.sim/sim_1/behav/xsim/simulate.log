@@ -1,0 +1,14 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+FFT-8 outputs (integer Q-format scaled by 2^15):
+k |  re (int)    imag (int)   |  re (float)        imag (float)
+---------------------------------------------------------------
+0 |       -1        0 |    -0.000031     0.000000
+1 |   131065       -3 |     3.999908    -0.000092
+2 |        0       -1 |     0.000000    -0.000031
+3 |        2       -3 |     0.000061    -0.000092
+4 |        1        0 |     0.000031     0.000000
+5 |        3        3 |     0.000092     0.000092
+6 |        0        1 |     0.000000     0.000031
+7 |   131066        3 |     3.999939     0.000092
+$finish called at time : 5 ns : File "C:/Users/User/Desktop/AGH/8sem/SDUP/Projekt/Verilog/FFT_CT2/FFT_CT2.srcs/sim_1/new/tb_fft8.v" Line 51
